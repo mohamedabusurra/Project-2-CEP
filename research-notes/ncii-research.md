@@ -1,6 +1,6 @@
 # Research Notes — AI Safety & Ethics: Deepfakes and Non-Consensual Media
 
-**Course:** CEP146 — AI Current Event Project
+**Course:** CEP146 — Essential Tooling for Programmers
 **Topic:** Sexual deepfakes / non-consensual intimate imagery (NCII)
 **Why it's a "current event":** The legal and policy response peaked in the last 12 months — the U.S. platform-removal deadline hit May 2026, Denmark's world-first likeness law is coming into force in 2026, the first U.S. conviction landed in April 2026, and UNICEF released its first global-scale child data in 2026.
 

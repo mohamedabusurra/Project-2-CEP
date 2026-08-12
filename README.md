@@ -8,7 +8,7 @@
 
 ## 📽️ Video Presentation
 
-🎬 **YouTube Link:** `[paste PUBLIC link here before submitting]`
+🎬 **YouTube Link:** https://youtu.be/zjBo6xdTo8w `[TODO: confirm visibility is set to PUBLIC before submitting]`
 Video length: 2:30 – 3:00 minutes
 
 ---
@@ -18,8 +18,8 @@ Video length: 2:30 – 3:00 minutes
 | Name | Student Number | Role |
 |---|---|---|
 | JG | 138683255 | Research material & source verification |
-| MC | | Video script & editing |
-| MA | | Presentation design, visuals & GitHub management |
+| MC | `TODO` | Video script & editing |
+| MA | `TODO` | Presentation design, visuals & GitHub management |
 
 ---
 
@@ -45,6 +45,23 @@ Two laws came into force in the months before we submitted this: the US TAKE IT 
 - **€15M or 3% of global turnover** — maximum penalty under EU AI Act Article 50, applicable from 2 August 2026, which requires deepfakes and AI-generated public-interest content to be disclosed and machine-readably marked.
 - **A methodological finding:** widely circulated "surge" statistics for this topic (900%, 1,210%, 2,137%, 3,892%) are measured over different windows on different denominators and cannot all be true. See §8 of `research-notes/research-material.md` for what we used and what we rejected.
 
+
+---
+
+## ❓ Discussion Question
+
+**If a video can no longer prove anything, what do we accept as proof instead?**
+
+---
+
+## 🤖 AI Evaluation
+
+We submitted this project to two AI models for grading. Full prompts and responses:
+
+- [`ai-evaluation/ai-model-1.md`](./ai-evaluation/ai-model-1.md) — Claude (Anthropic)
+- [`ai-evaluation/ai-model-2.md`](./ai-evaluation/ai-model-2.md) — Grok (xAI) `[TODO: response not yet pasted in]`
+
+See [`reflection.md`](./reflection.md) for our group's reflection on both.
 
 ---
 
