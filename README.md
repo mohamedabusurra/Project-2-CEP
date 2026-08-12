@@ -8,7 +8,7 @@
 
 ## 📽️ Video Presentation
 
-🎬 **YouTube Link:** https://youtu.be/zjBo6xdTo8w `[TODO: confirm visibility is set to PUBLIC before submitting]`
+🎬 **YouTube Link:** https://youtu.be/zjBo6xdTo8w 
 Video length: 2:30 – 3:00 minutes
 
 ---
@@ -17,9 +17,9 @@ Video length: 2:30 – 3:00 minutes
 
 | Name | Student Number | Role |
 |---|---|---|
-| JG | 138683255 | Research material & source verification |
-| MC | `TODO` | Video script & editing |
-| MA | `TODO` | Presentation design, visuals & GitHub management |
+| Julio Cesar Silvestre Giazzi | 138683255 | Research material & source verification |
+| Mark Cheung | 108297268 | Video script & editing |
+| Mohamed Abusurra | 109314260 | Presentation design, visuals & GitHub management |
 
 ---
 
