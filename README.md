@@ -17,7 +17,7 @@ Video length: 2:30 – 3:00 minutes
 
 | Name | Student Number | Role |
 |---|---|---|
-| JG | | Research material & source verification |
+| JG | 138683255 | Research material & source verification |
 | MC | | Video script & editing |
 | MA | | Presentation design, visuals & GitHub management |
 
