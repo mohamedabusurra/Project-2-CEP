@@ -8,7 +8,7 @@
 
 ## 📽️ Video Presentation
 
-🎬 **YouTube Link:** https://youtu.be/zjBo6xdTo8w 
+🎬 **YouTube Link:** https://youtu.be/zjBo6xdTo8w `[TODO: confirm visibility is set to PUBLIC before submitting]`
 Video length: 2:30 – 3:00 minutes
 
 ---
@@ -17,9 +17,9 @@ Video length: 2:30 – 3:00 minutes
 
 | Name | Student Number | Role |
 |---|---|---|
-| Julio Cesar Silvestre Giazzi | 138683255 | Research material & source verification |
-| Mark Cheung | 108297268 | Video script & editing |
-| Mohamed Abusurra | 109314260 | Presentation design, visuals & GitHub management |
+| JG | 138683255 | Research material & source verification |
+| MC | `TODO` | Video script & editing |
+| MA | `TODO` | Presentation design, visuals & GitHub management |
 
 ---
 
@@ -59,7 +59,7 @@ Two laws came into force in the months before we submitted this: the US TAKE IT 
 We submitted this project to two AI models for grading. Full prompts and responses:
 
 - [`ai-evaluation/ai-model-1.md`](./ai-evaluation/ai-model-1.md) — Claude (Anthropic)
-- [`ai-evaluation/ai-model-2.md`](./ai-evaluation/ai-model-2.md) — Grok (xAI) `[TODO: response not yet pasted in]`
+- [`ai-evaluation/ai-model-2.md`](./ai-evaluation/ai-model-2.md) — Grok (xAI)
 
 See [`reflection.md`](./reflection.md) for our group's reflection on both.
 
