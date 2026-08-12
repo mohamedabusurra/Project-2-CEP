@@ -20,17 +20,28 @@ What it said to fix: one claim (that fake intimate imagery is the most common us
 
 ### A2. AI Model 2 — Summary
 
-We used **Grok**. `TODO: paste the exact category scores here once the response is in ai-evaluation/ai-model-2.md — we haven't run it yet, so we're not putting numbers on this until we actually have them.`
+We used **Grok**. It gave us:
 
-What we can already say about how it approached the review: it didn't try to score things it couldn't see, like the video or our GitHub activity, the same way Claude held back. But it leaned harder into fact-checking than Claude did — it specifically praised us for throwing out the inflated "growth" percentages from vendor blogs and keeping the sourcing table.
+- Content & Presentation: **22/25**
+- GitHub Collaboration: **unverifiable, no score**
+- AI Evaluation Setup: **unverifiable, no score**
+- Reflection Quality: **unverifiable, no score**
+
+Its main compliments: the research notes show real honesty about data quality, the script is tight and well-paced for three voices, the discussion question is strong, and the slides are clean and easy to trust. It also went through our numbers one by one — Arup, the FBI IC3 figures, the EU AI Act date, the TAKE IT DOWN 48-hour rule, the BSE deepfake — and said all of them hold up.
+
+What it said to fix: the same "people" vs. "participants" wording Claude flagged, tighten the UK bridge/earthquake line to match our more careful research notes, and put the source next to the 96%-pornographic stat every time it appears, not just in the source list.
 
 ---
 
 ### A3. Comparison — What Was Similar? What Was Different?
 
-Both AIs were careful about not grading things they couldn't actually check, like the video itself or our GitHub history. Neither one just made up a score to fill in the blank.
+Where they agreed: both models refused to invent a score for things they couldn't see — the video itself, our GitHub activity — and both landed on almost the same Content & Presentation score (21 vs. 22). Both also independently checked our numbers against outside sources and said the core facts hold up.
 
-Where they differed: Claude spent more time on how things were written — word choice, whether a claim matched its source exactly. Grok spent more time checking whether the numbers themselves held up, and gave us more credit for rejecting bad stats. So Claude read more like an editor, and Grok read more like a fact-checker.
+Where they differed:
+- Claude still gave us provisional numbers for GitHub Collaboration (16/25) and AI Evaluation Setup (23/25) even though it admitted it couldn't really see those things. Grok wouldn't put a number on any of the three unseeable categories at all — stricter than Claude on its own rule.
+- They disagreed on how serious the "0.1% of people" vs. "0.1% of participants" issue is. Claude listed it as something to fix. Grok called the same thing "pedantic rather than material" — basically told us not to worry about it.
+
+Grok gave more useful feedback here, mainly because it was more consistent: it applied its own "don't invent a score" rule across the board instead of bending it for two categories like Claude did.
 
 ---
 
